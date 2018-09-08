@@ -5,6 +5,8 @@ Building a Global Team of Opensource Developers
 
 *Team* is the place where people can find you, discuss with you, and aks you to support their open source project.
 
+[Like on Facebook](https://www.facebook.com/socialatteam) and [Join Facebook Group](https://www.facebook.com/groups/241758613166243/).
+
 ![Team ](assets/team_vector.svg)
 
 ## How does it work
